@@ -12,7 +12,7 @@ If you’re looking for an engineer, you can find me here:
 - Email: leejeremy056@hotmail.com
 - LinkedIn: www.linkedin.com/in/jeremy-lee-2b9364304 
 - GitHub: https://github.com/jlee056
-- Orcid ID: 
+- Orcid ID: 0009-0001-0832-9906
 
 ---
 
@@ -44,6 +44,11 @@ If you’re looking for an engineer, you can find me here:
 ## Histology Segmentation using AI
 - VS2000
 - CODAvision
+
+## Education
+- Gilman School (Baltimore, MD)
+- Case Western Reserve University (Cleveland, OH)
+  
   
 
 
