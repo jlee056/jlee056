@@ -44,6 +44,11 @@ If you’re looking for an engineer, you can find me here:
 ## Histology Segmentation using AI
 - VS2000
 - CODAvision
+
+## Education
+- Gilman School (Baltimore, MD)
+- Case Western Reserve University (Cleveland, OH)
+  
   
 
 
