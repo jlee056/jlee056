@@ -1,9 +1,9 @@
-# Welcome 👋
+# Welcome 
 
 Thanks for stopping by! I’m a **Biomedical Engineering** student at **Case Western Reserve University** with an **Electrical Engineering minor**. I build hardware + software projects using **Arduino** and **ESP32**, with a focus on biomedical sensing, prototyping, and embedded systems. 
 
-- 🧠 Interests: biomedical devices, sensors, signal processing, embedded firmware, Modeling
-- 🛠️ I can: design • code • prototype • manufacture • Modeling
+-  Interests: Biomedical devices, signal processing, embedded firmware, Modeling, and AI use for histology
+-  I can: design • code • prototype • manufacture • Modeling
 
 ## Contact
 
@@ -28,12 +28,19 @@ If you’re looking for an engineer, you can find me here:
 - Biomedical-style sensors (heart rate / PPG, temperature, pressure, motion)
 - Data collection + basic preprocessing
 - Calibration + noise reduction (practical prototyping)
+- Using ODEs to model time-series data
 
 ## Programming
 - C / C++ 
 - Python 
 - Java
-- Matlab (Modeling)
+- Matlab
+
+## Simulations
+ - Model Sim
+ - KiCad
+ - LTspice
+ - NI Multisim
 
 ## Prototyping & Hardware
 - Breadboarding + circuit prototyping
@@ -41,35 +48,13 @@ If you’re looking for an engineer, you can find me here:
 - Basic PCB familiarity (schematics, layout exposure)
 - 3D printing / CAD ( SolidWorks)
 
-## Histology Segmentation using AI
+## Histology Segmentation
 - VS2000
 - CODAvision
+- 
 
 ## Education
 - Gilman School (Baltimore, MD)
 - Case Western Reserve University (Cleveland, OH)
   
-  
 
-
-
-
-
-
-
-
-
-<!--
-**jlee056/jlee056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
