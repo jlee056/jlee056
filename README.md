@@ -1,14 +1,11 @@
 # Welcome 
 
-Thanks for stopping by! I’m a **Biomedical Engineering** student at **Case Western Reserve University** with an **Electrical Engineering minor**. I build hardware + software projects using **Arduino** and **ESP32**, with a focus on biomedical sensing, prototyping, and embedded systems. 
+ I’m a **Biomedical Engineering** student at **Case Western Reserve University** with an **Electrical Engineering minor**. I build hardware + software projects using **Arduino** and **ESP32**, with a focus on biomedical sensing, prototyping, and embedded systems. 
 
 -  Interests: Biomedical devices, signal processing, embedded firmware, Modeling, and AI use for histology
--  I can: design • code • prototype • manufacture • Modeling
+
 
 ## Contact
-
-If you’re looking for an engineer, you can find me here:
-
 - Email: leejeremy056@hotmail.com
 - LinkedIn:  www.linkedin.com/in/jlee056
 - GitHub: https://github.com/jlee056
