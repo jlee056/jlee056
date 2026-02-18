@@ -31,7 +31,7 @@ If you’re looking for an engineer, you can find me here:
 - Using ODEs to model time-series data
 
 ## Programming
-- C / C++ 
+- C++ 
 - Python 
 - Java
 - Matlab
@@ -51,7 +51,6 @@ If you’re looking for an engineer, you can find me here:
 ## Histology Segmentation
 - VS2000
 - CODAvision
-- 
 
 ## Education
 - Gilman School (Baltimore, MD)
