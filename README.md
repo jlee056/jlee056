@@ -1,56 +1,65 @@
-# Welcome 
+# Jeremy Lee
 
- I’m a **Biomedical Engineering** student at **Case Western Reserve University** with an **Electrical Engineering minor**. I build hardware + software projects using **Arduino** and **ESP32**, with a focus on biomedical sensing, prototyping, and embedded systems. 
-
--  Interests: Biomedical devices, signal processing, embedded firmware, Modeling, and AI use for histology
-
-
-## Contact
-- Email: leejeremy056@hotmail.com
-- LinkedIn:  www.linkedin.com/in/jlee056
-- GitHub: https://github.com/jlee056
-- Orcid ID: 0009-0001-0832-9906
+**BME + EE @ Case Western Reserve University · building web apps, automation tools, and trading systems**
 
 ---
 
-# Technical Skills
+## What I'm Building
 
-## Embedded Systems
-- Arduino (UNO, Nano, etc.)
-- ESP32 (Wi-Fi / BLE)
-- GPIO, PWM, ADC, I2C, SPI, UART
+### [Foundry Studio](https://github.com/jlee056/foundry-studio) — Web Design + AI Automation Agency `private`
+Full-stack marketing site and service business targeting small trade companies (HVAC, plumbing, electrical). Bundles website design with AI automation (chatbot, phone receptionist, review automation) as a single offer.
 
-## Biomedical / Sensor Systems
-- Analog sensing (signal conditioning, filtering, amplification basics)
-- Biomedical-style sensors (heart rate / PPG, temperature, pressure, motion)
-- Data collection + basic preprocessing
-- Calibration + noise reduction (practical prototyping)
-- Using ODEs to model time-series data
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui · Motion · Vercel
 
-## Programming
-- C++ 
-- Python 
-- Java
-- Matlab
+---
 
-## Simulations
- - Model Sim
- - KiCad
- - LTspice
- - NI Multisim
+### [Weverse Ticket Bot](https://github.com/jlee056/weverse-ticket-bot) — Precision Event Registration Bot `private`
+Clicks a Weverse fan event submit button at the mathematically correct millisecond. Implements four layers of timing compensation: NTP clock sync, Weverse server clock offset (via `Date:` header), min-RTT one-way latency, and in-browser `dispatchEvent` to bypass Playwright IPC overhead.
 
-## Prototyping & Hardware
-- Breadboarding + circuit prototyping
-- Soldering + wiring harnesses
-- Basic PCB familiarity (schematics, layout exposure)
-- 3D printing / CAD ( SolidWorks)
+**Stack:** Python · asyncio · Playwright · ntplib · HTTP latency measurement
 
-## Histology Segmentation
-- VS2000
-- CODAvision
+---
+
+### ORB Trading Bot — Automated MNQ Futures Trading `private`
+Automates the Opening Range Breakout strategy on Micro Nasdaq-100 futures via the Interactive Brokers API. Locks the 15-min opening range at 9:45 AM ET, enters on breakout, exits at target or stop, force-closes at 3:50 PM. 2% risk per trade, auto-sized by range.
+
+**Stack:** Python · ib_insync · Interactive Brokers API · pandas
+
+---
+
+## Tech Stack
+
+**Frontend**
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Framer Motion` `shadcn/ui`
+
+**Backend & Automation**
+`Python` `asyncio` `Playwright` `REST APIs` `ntplib`
+
+**Hardware & Embedded**
+`Arduino` `ESP32` `I²C / SPI / UART` `signal processing` `PCB prototyping`
+
+**Tools**
+`Git` `Vercel` `VS Code` `TWS (Interactive Brokers)`
+
+**Languages**
+`TypeScript` `Python` `C++` `Java` `MATLAB`
+
+**Simulation & EDA**
+`KiCad` `LTspice` `NI Multisim` `ModelSim` `SolidWorks`
+
+---
 
 ## Education
-- Gilman School (Baltimore, MD)
-- Case Western Reserve University (Cleveland, OH)
-  
 
+**Case Western Reserve University** — Cleveland, OH
+BS Biomedical Engineering + BS Electrical Engineering *(double major)*
+
+**Gilman School** — Baltimore, MD
+
+---
+
+## Contact
+
+- Email: leejeremy056@hotmail.com
+- LinkedIn: [linkedin.com/in/jlee056](https://www.linkedin.com/in/jlee056)
+- GitHub: [github.com/jlee056](https://github.com/jlee056)
