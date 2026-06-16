@@ -7,9 +7,9 @@
 ## What I'm Building
 
 ### [Foundry Studio](https://github.com/jlee056/foundry-studio) — Web Design + AI Automation Agency `private`
-Full-stack marketing site and service business targeting small trade companies (HVAC, plumbing, electrical). Bundles website design with AI automation (chatbot, phone receptionist, review automation) as a single offer.
+Full-stack marketing site and service business targeting small trade companies (HVAC, plumbing, electrical). Services: website design, AI automation (chatbot, phone receptionist, review automation), and Google Business Profile optimization / local SEO. Built a 200+ lead prospect list with Firecrawl-verified website audits; completed GBP audits on individual businesses.
 
-**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui · Motion · Vercel
+**Stack:** Next.js 16 · React 19 · TypeScript · Tailwind CSS v4 · shadcn/ui · Motion · Vercel · Firecrawl
 
 ---
 
