@@ -1,6 +1,6 @@
 # Jeremy Lee
 
-**BME + EE @ Case Western Reserve University 
+**Biomedical Engineering + Electrical Engineering @ Case Western Reserve University 
 
 ---
 
