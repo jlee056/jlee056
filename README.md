@@ -20,7 +20,7 @@ Clicks a Weverse fan event submit button at the mathematically correct milliseco
 
 ---
 
-### ORB Trading Bot — Automated MNQ Futures Trading `private`
+### ORB Trading Bot — Automated MNQ Futures Trading `public`
 Automates the Opening Range Breakout strategy on Micro Nasdaq-100 futures via the Interactive Brokers API. Locks the 15-min opening range at 9:45 AM ET, enters on breakout, exits at target or stop, force-closes at 3:50 PM. 2% risk per trade, auto-sized by range.
 
 **Stack:** Python · ib_insync · Interactive Brokers API · pandas
