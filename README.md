@@ -1,6 +1,6 @@
 # Jeremy Lee
 
-**BME + EE @ Case Western Reserve University · building web apps, automation tools, and trading systems**
+**BME + EE @ Case Western Reserve University 
 
 ---
 
