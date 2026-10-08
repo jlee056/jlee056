@@ -28,7 +28,6 @@ Built the **Arduino-controlled pressure rig** used in a Johns Hopkins study publ
 
 - **JARVIS**: an always-on local voice assistant. A "Hey Jarvis" wake word, local speech-in and speech-out, Claude as the brain, and my whole notes vault as memory. A code-enforced safety gate sits in front of risky actions. *In progress.*
 - **Table Vision**: a webcam watches a table and names the objects on it, live. YOLO11 nano and OpenCV, fully local, about 28 FPS on CPU. Capture, inference and drawing run on separate threads so the video never stutters.
-- **APOBEC3A Protocol Optimizer**: a browser port of NEB's unfinished EM-seq protocol optimizer. Found and fixed 9 upstream defects, then solved the kinetic ODE in closed form so a sweep of 41,160 protocols runs in about 60 ms instead of minutes.
 - **Threat-intel pipeline**: ingests CISA KEV, abuse.ch and RSS feeds daily, has Claude enrich and triage each item into a linked knowledge graph, and drafts a weekly report that only publishes after I approve it.
 - **ORB trading bot**: a Python bot for the Opening Range Breakout strategy on MNQ futures through the Interactive Brokers API. It runs layered filters and logs the trades each filter would have skipped, so I can measure which ones add edge before risking money. Paper trading only.
 
