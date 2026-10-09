@@ -20,6 +20,9 @@ Marketing site for a web design and AI automation studio aimed at small trade bu
 ### [Ultrasonic Tactile Alert](https://github.com/jlee056/Ultrasonic-Tactile-Alert) · `Arduino` `C++`
 Early exploration of tactile feedback for blind and low-vision navigation: an HC-SR04 ultrasonic sensor, an LCD readout and a servo that responds as objects get close.
 
+### [ORB Trading Bot](https://github.com/jlee056/orb-bot) · `Python` `Interactive Brokers API`
+A Python bot for the Opening Range Breakout strategy on MNQ futures through the Interactive Brokers API. It runs layered filters and logs the trades each filter would have skipped, so I can measure which ones add edge before risking money. Paper trading only.
+
 ### Published hardware work: *Science* (2024)
 Built the **Arduino-controlled pressure rig** used in a Johns Hopkins study published in *Science* (vol. 385, eadi1650): programmable cycling of 1 kPa at 0.025 Hz (20 s on / 20 s off) applied to cell cultures for 30 minutes. Also trained the image-segmentation model used to quantify the results. [doi:10.1126/science.adi1650](https://doi.org/10.1126/science.adi1650)
 
@@ -29,7 +32,6 @@ Built the **Arduino-controlled pressure rig** used in a Johns Hopkins study publ
 - **JARVIS**: an always-on local voice assistant. A "Hey Jarvis" wake word, local speech-in and speech-out, Claude as the brain, and my whole notes vault as memory. A code-enforced safety gate sits in front of risky actions. *In progress.*
 - **Table Vision**: a webcam watches a table and names the objects on it, live. YOLO11 nano and OpenCV, fully local, about 28 FPS on CPU. Capture, inference and drawing run on separate threads so the video never stutters.
 - **Threat-intel pipeline**: ingests CISA KEV, abuse.ch and RSS feeds daily, has Claude enrich and triage each item into a linked knowledge graph, and drafts a weekly report that only publishes after I approve it.
-- **ORB trading bot**: a Python bot for the Opening Range Breakout strategy on MNQ futures through the Interactive Brokers API. It runs layered filters and logs the trades each filter would have skipped, so I can measure which ones add edge before risking money. Paper trading only.
 
 ---
 
