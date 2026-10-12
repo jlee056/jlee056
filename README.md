@@ -1,6 +1,6 @@
 # Jeremy Lee
 
-**Biomedical Engineering + Electrical Engineering @ Case Western Reserve University** · Expected Fall 2028
+**Biomedical Engineering + Electrical Engineering @ Case Western Reserve University** · Expected Fall 2027
 
 I build things where hardware, signals and software meet: embedded systems, computer vision, developer tooling, and AI projects.
 
@@ -46,7 +46,7 @@ Built the **Arduino-controlled pressure rig** used in a Johns Hopkins study publ
 
 ## Education
 
-**Case Western Reserve University**, Cleveland, OH: BS Biomedical Engineering + BS Electrical Engineering (double major)
+**Case Western Reserve University**, Cleveland, OH: BS Biomedical Engineering, with Electrical Engineering as a second major (in progress)
 **Gilman School**, Baltimore, MD
 
 ## Contact
