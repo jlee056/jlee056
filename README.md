@@ -46,7 +46,7 @@ Built the **Arduino-controlled pressure rig** used in a Johns Hopkins study publ
 
 ## Education
 
-**Case Western Reserve University**, Cleveland, OH: BS Biomedical Engineering, with Electrical Engineering as a second major (in progress)
+**Case Western Reserve University**, Cleveland, OH: BS Biomedical Engineering + BS Electrical Engineering (double major)
 **Gilman School**, Baltimore, MD
 
 ## Contact
