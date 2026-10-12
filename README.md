@@ -26,6 +26,8 @@ A Python bot for the Opening Range Breakout strategy on MNQ futures through the 
 ### Published hardware work: *Science* (2024)
 Built the **Arduino-controlled pressure rig** used in a Johns Hopkins study published in *Science* (vol. 385, eadi1650): programmable cycling of 1 kPa at 0.025 Hz (20 s on / 20 s off) applied to cell cultures for 30 minutes. Also trained the image-segmentation model used to quantify the results. [doi:10.1126/science.adi1650](https://doi.org/10.1126/science.adi1650)
 
+A second co-authored paper from the same lab, "Collagen-PMMA scaffolds induce dermal remodeling and immune recruitment distinct from simple volar fibroblast therapy in human skin," was accepted by the *Journal of Investigative Dermatology* in October 2026 (in press).
+
 ### More builds
 *Local or private repos, so no links yet.*
 
