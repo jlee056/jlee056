@@ -4,6 +4,8 @@
 
 I build things where hardware, signals and software meet: embedded systems, computer vision, developer tooling, and AI projects.
 
+**Looking for Summer 2027 internships** in biomedical, electrical or embedded engineering. [Get in touch](#contact).
+
 ---
 
 ## Projects
@@ -22,6 +24,11 @@ Early exploration of tactile feedback for blind and low-vision navigation: an HC
 
 ### [ORB Trading Bot](https://github.com/jlee056/orb-bot) · `Python` `Interactive Brokers API`
 A Python bot for the Opening Range Breakout strategy on MNQ futures through the Interactive Brokers API. It runs layered filters and logs the trades each filter would have skipped, so I can measure which ones add edge before risking money. Paper trading only.
+
+### Small tools
+- [claude-second-brain](https://github.com/jlee056/claude-second-brain): my Claude Code setup. An Obsidian vault Claude maintains by itself, automatic session logging, hooks, MCP servers and skills, with templates and a walkthrough.
+- [tidy-terminals](https://github.com/jlee056/tidy-terminals): Ctrl+Alt+T snaps every Windows Terminal, cmd and PowerShell window into an even grid, including admin windows.
+- [screen-off](https://github.com/jlee056/screen-off): one click turns the monitor off without sleeping or locking the PC.
 
 ### Published hardware work: *Science* (2024)
 Built the **Arduino-controlled pressure rig** used in a Johns Hopkins study published in *Science* (vol. 385, eadi1650): programmable cycling of 1 kPa at 0.025 Hz (20 s on / 20 s off) applied to cell cultures for 30 minutes. Also trained the image-segmentation model used to quantify the results. [doi:10.1126/science.adi1650](https://doi.org/10.1126/science.adi1650)
