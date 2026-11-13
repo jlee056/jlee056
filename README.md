@@ -56,7 +56,7 @@ A second co-authored paper from the same lab, "Collagen-PMMA scaffolds induce de
 ## Education
 
 **Case Western Reserve University**, Cleveland, OH: BS Biomedical Engineering + BS Electrical Engineering (double major)
-**Gilman School**, Baltimore, MD
+**Gilman School Alumni**, Baltimore, MD
 
 ## Contact
 
